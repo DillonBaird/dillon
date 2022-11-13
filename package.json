@@ -1,0 +1,35 @@
+{
+  "name": "dillon",
+  "version": "2.0.1",
+  "description": "CLI Portfolio for Dillon M. Baird",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DillonBaird/dillon.git"
+  },
+  "keywords": [
+    "dillon",
+    "baird",
+    "dillonbaird",
+    "cli",
+    "portfolio"
+  ],
+  "author": "dillonbaird",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DillonBaird/dillon/issues"
+  },
+  "homepage": "https://github.com/DillonBaird/dillon#readme",
+  "bin": {
+    "dillon": "./index.mjs"
+  },
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.1.2",
+    "console-png": "^1.2.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "type": "commonjs"
+}
