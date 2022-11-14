@@ -31,5 +31,8 @@
     "path": "^0.12.7",
     "url": "^0.11.0"
   },
-  "type": "commonjs"
+  "type": "commonjs",
+  "engines": {
+    "node": ">=15.0.0"
+  }
 }
