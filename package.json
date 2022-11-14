@@ -1,6 +1,6 @@
 {
   "name": "dillon",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "CLI Portfolio for Dillon M. Baird",
   "main": "index.mjs",
   "repository": {
