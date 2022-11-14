@@ -11,6 +11,8 @@ Just a small/simple cli portfolio I created as a little fun. Give it a try yours
 
 ## Usage
 
+NOTE: Requires Node v16 or later
+
 ```
 $ npx dillon
 ```
